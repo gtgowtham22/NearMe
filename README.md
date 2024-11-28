@@ -255,7 +255,7 @@ tiruvallur.html
 ![alt text](egatur.png)
 ![alt text](manavalanagar.png)
 ![alt text](<medical college hospital.png>)
-![alt text](<map.png>)
+
 
 
 ## RESULT
