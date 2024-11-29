@@ -250,14 +250,11 @@ tiruvallur.html
 ```
 
 ## OUTPUT!
-![alt text](map.png)
-![alt text](tiruvallur.png)
-![alt text](<anjanayer tample.png>)
-![alt text](egatur.png)
-![alt text](manavalanagar.png)
-![alt text](<medical college hospital.png>)
-
-
-
+![alt text](<tiruvallur final html.png>)
+![alt text](<my city final.png>)
+![alt text](<anjaneyear final.png>)
+![alt text](<ehgatur final.png>)
+![alt text](<government medical hospital  final.png>)
+![alt text](<manavalanagar final.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
